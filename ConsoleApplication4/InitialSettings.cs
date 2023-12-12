@@ -212,6 +212,7 @@ namespace Project_1
             }
         }
 
+
         internal void Enable(SAPbouiCOM.Form form, bool Enable)
         {
             try
